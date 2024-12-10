@@ -1,0 +1,22 @@
+Date,Description,Category,Amount,Dr/Cr,CustomerId
+01-09-2024,Rent Payment,Rent,150.75,Dr,4.09001E+11
+03-09-2024,M&S,Groceries,75,Dr,4.09001E+11
+10-09-2024,Mc Donalds,Restaurant,30,Dr,4.09001E+11
+12-09-2024,Electric Bill,Bills,100.5,Dr,4.09001E+11
+15-09-2024,Dinner Out,Bills,60,Dr,4.09001E+11
+20-09-2024,Internet Bill,Bills,40,Dr,4.09001E+11
+25-09-2024,Restaurant,Health,90,Dr,4.09001E+11
+07-10-2024,Tesco,Groceries,120,Dr,4.09001E+11
+02-10-2024,Grocery Shopping,Groceries,80,Dr,4.09001E+11
+03-10-2024,Gym Membership,Bills,30,Dr,4.09001E+11
+04-10-2024,House Rent,Rent,30,Dr,4.09001E+11
+05-10-2024,Rent Payment,Rent,30,Dr,4.09001E+11
+06-10-2024,Sainbury,Groceries,60,Dr,4.09001E+11
+07-10-2024,Haldirams,Bills,50,Dr,4.09001E+11
+08-10-2024,Electric Bill,Bills,100,Dr,4.09001E+11
+09-10-2024,Internet Bill,Bills,120,Dr,4.09001E+11
+31-10-2024,KFC,Restaurant,20,Dr,4.09001E+11
+07-10-2024,Grocery Store,Groceries,600,Dr,4.09001E+11
+07-11-2024,Gym Membership,Bills,500,Dr,4.09001E+11
+07-12-2024,Salary,Salary,15000,Cr,4.09001E+11
+01-01-2023,House Rent,Rent,30,Dr,4.09001E+11
